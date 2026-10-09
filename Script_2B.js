@@ -9,6 +9,4 @@ function print_large(){
     output.innerHTML = "<h3>Apple</h3>";
 }
 
-//SHOW OFF for example of single-use
-/*export default print;*/
 export {print_text, print_large};

@@ -1,4 +1,4 @@
-import { print_text, print_large } from "./Script_2B.js";
+import { print_text, print_large } from "./Script_3B.js";
 
 function print_r(){
     print_text();
